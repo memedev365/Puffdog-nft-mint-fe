@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'Carmen Sans';
+  src: url('/fonts/carmen-sans/CarmenSans-Medium.eot');
+  src: local('Carmen Sans Medium'), local('CarmenSans-Medium'),
+    url('/fonts/carmen-sans/CarmenSans-Medium.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/carmen-sans/CarmenSans-Medium.woff2') format('woff2'),
+    url('/fonts/carmen-sans/CarmenSans-Medium.woff') format('woff'),
+    url('/fonts/carmen-sans/CarmenSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Carmen Sans';
+  src: url('/fonts/carmen-sans/CarmenSans-Bold.eot');
+  src: local('Carmen Sans Bold'), local('CarmenSans-Bold'),
+    url('/fonts/carmen-sans/CarmenSans-Bold.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/carmen-sans/CarmenSans-Bold.woff2') format('woff2'),
+    url('/fonts/carmen-sans/CarmenSans-Bold.woff') format('woff'),
+    url('/fonts/carmen-sans/CarmenSans-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Carmen Sans';
+  src: url('/fonts/carmen-sans/CarmenSans-ExtraBold.eot');
+  src: local('Carmen Sans ExtraBold'), local('CarmenSans-ExtraBold'),
+    url('/fonts/carmen-sans/CarmenSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/carmen-sans/CarmenSans-ExtraBold.woff2') format('woff2'),
+    url('/fonts/carmen-sans/CarmenSans-ExtraBold.woff') format('woff'),
+    url('/fonts/carmen-sans/CarmenSans-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Carmen Sans';
+  src: url('/fonts/carmen-sans/CarmenSans-Heavy.eot');
+  src: local('Carmen Sans Heavy'), local('CarmenSans-Heavy'),
+    url('/fonts/carmen-sans/CarmenSans-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/carmen-sans/CarmenSans-Heavy.woff2') format('woff2'),
+    url('/fonts/carmen-sans/CarmenSans-Heavy.woff') format('woff'),
+    url('/fonts/carmen-sans/CarmenSans-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Carmen Sans';
+  src: url('/fonts/carmen-sans/CarmenSans-Light.eot');
+  src: local('Carmen Sans Light'), local('CarmenSans-Light'),
+    url('/fonts/carmen-sans/CarmenSans-Light.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/carmen-sans/CarmenSans-Light.woff2') format('woff2'),
+    url('/fonts/carmen-sans/CarmenSans-Light.woff') format('woff'),
+    url('/fonts/carmen-sans/CarmenSans-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Carmen Sans';
+  src: url('/fonts/carmen-sans/CarmenSans-Regular.eot');
+  src: local('Carmen Sans Regular'), local('CarmenSans-Regular'),
+    url('/fonts/carmen-sans/CarmenSans-Regular.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/carmen-sans/CarmenSans-Regular.woff2') format('woff2'),
+    url('/fonts/carmen-sans/CarmenSans-Regular.woff') format('woff'),
+    url('/fonts/carmen-sans/CarmenSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Carmen Sans';
+  src: url('/fonts/carmen-sans/CarmenSans-UltraLight.eot');
+  src: local('Carmen Sans UltraLight'), local('CarmenSans-UltraLight'),
+    url('/fonts/carmen-sans/CarmenSans-UltraLight.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/carmen-sans/CarmenSans-UltraLight.woff2') format('woff2'),
+    url('/fonts/carmen-sans/CarmenSans-UltraLight.woff') format('woff'),
+    url('/fonts/carmen-sans/CarmenSans-UltraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Carmen Sans';
+  src: url('/fonts/carmen-sans/CarmenSans-Thin.eot');
+  src: local('Carmen Sans Thin'), local('CarmenSans-Thin'),
+    url('/fonts/carmen-sans/CarmenSans-Thin.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/carmen-sans/CarmenSans-Thin.woff2') format('woff2'),
+    url('/fonts/carmen-sans/CarmenSans-Thin.woff') format('woff'),
+    url('/fonts/carmen-sans/CarmenSans-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Carmen Sans';
+  src: url('/fonts/carmen-sans/CarmenSans-SemiBold.eot');
+  src: local('Carmen Sans SemiBold'), local('CarmenSans-SemiBold'),
+    url('/fonts/carmen-sans/CarmenSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/carmen-sans/CarmenSans-SemiBold.woff2') format('woff2'),
+    url('/fonts/carmen-sans/CarmenSans-SemiBold.woff') format('woff'),
+    url('/fonts/carmen-sans/CarmenSans-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
